@@ -69,7 +69,7 @@ The dashboard contains:
 
 ## 📈 How to Use
 
-1. Open `Amazon_Product_Analysis.xlsx`
+1. Open [Amazon_Product_Analysis.xlsx]
 2. Browse Pivot Tables and Charts by question group
 3. Use filters to explore deeper insights
 
